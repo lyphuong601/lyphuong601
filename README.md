@@ -6,11 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [my github.](https://github.com/lyphuong601)
 
-- 📄 Know about my experiences through [my resume.](https://github.com/lyphuong601/AdventueWork-Inc-DA-Project)
+- 📄 Know about my experiences through [my resume.](https://www.linkedin.com/in/lyphuong0601/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lyphuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyphuong" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lyphuong0601/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyphuong0601" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
