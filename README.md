@@ -4,7 +4,7 @@
 
 - 🔭 I love doing math, programming and data analysis. 
 
-- 👨‍💻 All of my projects are available at [here.](https://github.com/lyphuong601)
+- 👨‍💻 All of my projects are available at [my github.](https://github.com/lyphuong601)
 
 - 📄 Know about my experiences through [my resume.](https://github.com/lyphuong601/AdventueWork-Inc-DA-Project)
 
