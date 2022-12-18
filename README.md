@@ -27,4 +27,5 @@
 ### My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyphuong601&repo=AdventueWork-Inc-DA-Project
 )](https://github.com/lyphuong601/AdventueWork-Inc-DA-Project) 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyphuong601&repo=job_posts_data_cleaning
+)](https://github.com/lyphuong601/job_posts_data_cleaning) 
