@@ -2,11 +2,11 @@
 
 - 🌱 I’m an aspiring data analysis. Taking baby step to learn and break into the field of Data Analytics.
 
-- 🔭 I love doing math, programming and data analysis. 
+- 🔭 I love math, programming and data analysis. 
 
 - 👨‍💻 All of my projects are available at [my github.](https://github.com/lyphuong601)
 
-- 📄 Know about my experiences through [my resume.](https://www.linkedin.com/in/lyphuong0601/)
+- 📄 Know about my experiences through [my linkedin.](https://www.linkedin.com/in/lyphuong0601/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,9 +23,9 @@
   
 [![Thanh's github stats](https://github-readme-stats.vercel.app/api?username=lyphuong601&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-    
+
 ### My projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyphuong601&repo=AdventueWork-Inc-DA-Project
-)](https://github.com/lyphuong601/AdventueWork-Inc-DA-Project) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyphuong601&repo=Data-Science
+)](https://github.com/lyphuong601/Data-Science) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyphuong601&repo=job_posts_data_cleaning
 )](https://github.com/lyphuong601/job_posts_data_cleaning) 
