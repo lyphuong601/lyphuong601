@@ -28,7 +28,7 @@
 
 
 ### My projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyphuong601&repo=Data-Science
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyphuong601&repo=data-science
 )](https://github.com/lyphuong601/Data-Science) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyphuong601&repo=job_posts_data_cleaning
 )](https://github.com/lyphuong601/job_posts_data_cleaning) 
