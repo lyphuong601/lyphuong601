@@ -24,11 +24,11 @@
 [![Thanh's github stats](https://github-readme-stats.vercel.app/api?username=lyphuong601&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyphuong601&layout=compact&hide=scss,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyphuong601&layout=compact&hide=scss,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### My projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyphuong601&theme=radical&repo=Data-Science
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyphuong601&repo=Data-Science
 )](https://github.com/lyphuong601/Data-Science) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyphuong601&theme=radical&repo=job_posts_data_cleaning
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyphuong601&repo=job_posts_data_cleaning
 )](https://github.com/lyphuong601/job_posts_data_cleaning) 
