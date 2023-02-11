@@ -4,14 +4,14 @@
 
 - 🔭 I love math, programming and data analysis. 
 
-- 👨‍💻 All of my projects are available at [my github.](https://github.com/lyphuong601)
+- 👨‍💻 Check out my [portolio project.](http://lyphuong601.github.io/)
 
-- 📄 Know about my experiences through [my linkedin.](https://www.linkedin.com/in/lyphuong0601/)
+- 📄 Know about my experiences through my [linkedin.](https://www.linkedin.com/in/lyphuong0601/)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lyphuong0601/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyphuong0601" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -26,6 +26,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyphuong601&layout=compact&hide=scss,css)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- jupyter%20notebook -->
 
 ### My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyphuong601&repo=data-science
