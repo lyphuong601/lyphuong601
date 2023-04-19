@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thanh P. Ly</h1>
 
-- 🌱 I’m an aspiring data analysis. Taking baby step to learn and break into the field of Data Analytics.
+- 🌱 I’m a results-driven data scientist with a proven track record of leveraging data to extract insights and drive strategic decisions. 
 
 - 🔭 I love math, programming and data analysis. 
 
