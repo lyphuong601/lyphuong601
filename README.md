@@ -4,9 +4,7 @@
 
 - 🔭 I love math, programming and data analysis. 
 
-- 👨‍💻 Check out my [portolio project.](http://lyphuong601.github.io/)
-
-- 📄 Know about my experiences through my [linkedin.](https://www.linkedin.com/in/lyphuong0601/)
+- 📄 Know about my experiences through my [linkedin.](https://www.linkedin.com/in/thanh-p-ly-a70b67267/)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
