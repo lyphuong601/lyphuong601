@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thanh P. Ly</h1>
 
-- 🌱 I’m an aspiring data analysis. Taking baby step to learn and break into the field of Data Analytics.
+- 🌱 I’m an aspiring data analyst. Taking baby step to learn and break into the field of Data Analytics.
 
-- 🔭 I love math, programming and data analysis. 
+- 🔭 I love math, statistics, programming and data analysis. 
 
 - 👨‍💻 Check out my [portolio project.](http://lyphuong601.github.io/)
 
