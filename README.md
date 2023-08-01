@@ -4,7 +4,7 @@
 
 - 🔭 I love math, statistics, programming and data analysis. 
 
-- 📄 Know about my experiences through my [linkedin.](https://www.linkedin.com/in/thanh-p-ly-a70b67267/)
+- 📄 Know about my experiences through my [linkedin](https://www.linkedin.com/in/thanh-p-ly-a70b67267/).
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
