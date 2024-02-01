@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thanh P. Ly</h1>
 
-- 🌱 I’m a results-driven data scientist with a proven track record of leveraging data to extract insights and drive strategic decisions. 
+- 🌱 I’m a data-driven actuary with a proven track record of leveraging data to extract insights and drive strategic decisions. 
 
 - 🔭 I love math, statistics, programming and data analysis. 
 
@@ -16,13 +16,11 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  -->
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lyphuong601/langs?time_range=one_year)](https://githubtrends.io) -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyphuong601&layout=compact&hide=scss,css)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lyphuong601/langs?time_range=one_year)](https://githubtrends.io)
 
 
 <!-- jupyter%20notebook -->
